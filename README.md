@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Proyecto de Códigos de Clase
 
 Este repositorio contiene los códigos que he desarrollado durante mis clases. Cada directorio corresponde a una asignatura o proyecto específico, y contiene los archivos de código fuente y recursos necesarios.
