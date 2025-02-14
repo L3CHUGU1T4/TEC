@@ -196,4 +196,3 @@ Iterar sobre una lista:
 
 ---
 
-Con esto tienes lo básico para empezar a programar en **Common Lisp**. 🚀 ¡Diviértete explorando! 😃
